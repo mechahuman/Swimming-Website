@@ -50,6 +50,6 @@
 
 ## Credits
 
-Design and animation concepts are inspired by the YouTube tutorial _"How To Make Website Using HTML & CSS"_ by **Sheryians Coding School**. Elements such as the animated cursor and scroll-triggered transitions have been adapted and enhanced from the original tutorial.
+Design and animation concepts are inspired by the [YouTube tutorial](https://www.youtube.com/watch?v=xG1_vbVPUUs) by **Sheryians Coding School**. Elements such as the animated cursor and scroll-triggered transitions have been adapted and enhanced from the original tutorial.
 
 ---
