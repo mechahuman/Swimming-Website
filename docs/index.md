@@ -2,7 +2,7 @@
 
 ## Overview
 
-**AquaPulse Swim Club** is a modern, dynamic website template built for swimming clubs and aquatic venues. The design features sleek animations, smooth transitions, and a vibrant aquatic theme to create an engaging, immersive user experience. It showcases the club’s offerings, including swimming lessons, events, and cultural activities.
+This [project](https://github.com/mechahuman/Swimming-Website) is a modern, dynamic website template built for swimming clubs and aquatic venues. The design features sleek animations, smooth transitions, and a vibrant aquatic theme to create an engaging, immersive user experience. It showcases the club’s offerings, including swimming lessons, events, and cultural activities.
 
 ## Key Features
 
